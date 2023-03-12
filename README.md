@@ -1,5 +1,3 @@
-# cnyt
-
 # Librería de Complejos
 
 #### La librería contiene las siguientes operaciones:
