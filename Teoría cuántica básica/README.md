@@ -21,5 +21,4 @@ El sistema consiste en una partícula confinada a un conjunto discreto de posici
 - 4.4.2
 
 # EJERCICIOS 4.5.2 y 4.5.3
-https://mail.google.com/mail/u/0/popout?ver=16k8g23zpfr81#attid%253Datt_1873092fd2dc3b83_0.2_1873092dfc297aa826b2
-https://mail.google.com/mail/u/0/popout?ver=16k8g23zpfr81#attid%253Datt_1873092fd2dc3b83_0.1_1873092dfb1cd81aede1
+!
