@@ -1,6 +1,6 @@
 # TEORÍA CUÁNTICA BÁSICA, OBSERVABLES Y MEDIDAS
 
-Para poder utilizar esta librería es necesario tener en cuenta la Librería de vectores y matrices (https://bit.ly/3YG7BoD), incluida en este proyecto.
+Para poder utilizar esta librería es necesario tener en cuenta la Librería de vectores y matrices (https://bit.ly/3YG7BoD), incluida en este proyecto. También se incluyen dos documentos de pruebas.
 
 # SISTEMA CUÁNTICO
 El sistema consiste en una partícula confinada a un conjunto discreto de posiciones en una línea. El simulador permite especificar el número de la posición y un vector ket de estado asignando las amplitudes.
@@ -21,3 +21,5 @@ El sistema consiste en una partícula confinada a un conjunto discreto de posici
 - 4.4.2
 
 # EJERCICIOS 4.5.2 y 4.5.3
+https://mail.google.com/mail/u/0/popout?ver=16k8g23zpfr81#attid%253Datt_1873092fd2dc3b83_0.2_1873092dfc297aa826b2
+https://mail.google.com/mail/u/0/popout?ver=16k8g23zpfr81#attid%253Datt_1873092fd2dc3b83_0.1_1873092dfb1cd81aede1
