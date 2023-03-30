@@ -21,4 +21,4 @@ El sistema consiste en una partícula confinada a un conjunto discreto de posici
 - 4.4.2
 
 # EJERCICIOS 4.5.2 y 4.5.3
-!
+!https://github.com/lj-sanchez/CNYT/blob/9a2c31ce826016eb2960a3f395747430d9c3e645/Teor%C3%ADa%20cu%C3%A1ntica%20b%C3%A1sica/IMG_1.jpg
